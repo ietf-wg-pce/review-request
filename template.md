@@ -9,7 +9,9 @@ At present, we have <$draft-name> [3] undergoing <WG adoption|WGLC> call, and we
 Thank you for your cooperation and support.
 
 Thanks,
+
 Dhruv & Julien
+
 PCE Co-chairs
 
 [1] https://wiki.ietf.org/en/group/pce#wg-last-call-queue
