@@ -1,4 +1,4 @@
-Review Request from PCE WG co-chairs
+Sub: Review Request from PCE WG co-chairs
 
 Hi <$name>,
 
