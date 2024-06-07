@@ -13,6 +13,9 @@ Dhruv & Julien
 PCE Co-chairs
 
 [1] https://wiki.ietf.org/en/group/pce#wg-last-call-queue
+
 [2] https://wiki.ietf.org/en/group/pce#wg-adoption-call-queue
+
 [3] <draft-url>
+
 [4] <mailing-list-url>
